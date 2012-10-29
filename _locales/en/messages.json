@@ -1,0 +1,8 @@
+{
+  "chrome_extension_name": {
+    "message": "FBAnonymizer"
+  },
+  "chrome_extension_description": {
+    "message": "FBAnonymizer blurs names on your facebook with one click. Makes it easy to take screenshots without sharing any private infomation."
+  }
+}

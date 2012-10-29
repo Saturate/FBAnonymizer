@@ -1,0 +1,32 @@
+.fbxWelcomeBox .fbxWelcomeBoxName { -webkit-filter: blur(3px); }
+
+
+/* Hide wall name, and wall tag names */
+.actorName,
+.passiveName { -webkit-filter: blur(3px); }
+
+.fbxWelcomeBoxBlock .fbxWelcomeBoxImg { -webkit-filter: blur(3px); }
+
+/* Hide Wall photos */
+.actorPhoto img { -webkit-filter: blur(3px); }
+
+/* Hide wall comment names */
+.UFICommentActorName { -webkit-filter: blur(3px); }
+/* Hide wall comment images */
+.UFIActorImage { -webkit-filter: blur(3px); }
+
+/* Hide Like names */
+.UFILikeSentence a[data-hovercard] { -webkit-filter: blur(3px); }
+
+/* Hide top name */
+[title="Profile"] img,
+[title="Profile"] .headerTinymanName { -webkit-filter: blur(3px); }
+
+/* Hide bithday names */
+#birthday_reminders_link .fbRemindersTitle { -webkit-filter: blur(3px); }
+
+/* Hide chat sidebar names */
+.fbChatSidebar .name { -webkit-filter: blur(3px); }
+
+/* Hide chat title bar name */
+.titlebarLabel .titlebarText { -webkit-filter: blur(3px); }
