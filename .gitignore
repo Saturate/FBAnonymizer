@@ -1,7 +1,6 @@
 # Chome Addon files #
 #####################
-.pem
-
+*.pem
 
 # OS generated files #
 ######################
