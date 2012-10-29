@@ -1,6 +1,8 @@
 #FBAnonymizer
 FBAnonymizer blurs names on your facebook with one click. Makes it easy to take screenshots without sharing any private infomation.
 
+![A post blured by FBAnonymizer](http://i.imgur.com/9s4Ro.png)
+
 ##How To Install
 I'll try to add it to the Google Chrome Store. Until then you need to install it some other way.
 
