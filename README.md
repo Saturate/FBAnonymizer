@@ -15,8 +15,9 @@ If you don't do this, you will get a popup that says you need to install it from
 Just click the icon while on a FB tab. If names are not blured, update chrome. Support for older versions is coming later along with blackbar sensoring, instead of blur.
 
 ##Todo
-- Options Pag
+- Options Page
 - Better Logic
+- Better Icons
 
 ##Contribute
 Just fork it and make a pull-request! Or if you have any ideas, make a issue!
